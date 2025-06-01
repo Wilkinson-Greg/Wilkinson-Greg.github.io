@@ -68,3 +68,12 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.permalink {
+    color: #4a6fa5;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+.permalink:hover {
+    text-decoration: underline;
+}
